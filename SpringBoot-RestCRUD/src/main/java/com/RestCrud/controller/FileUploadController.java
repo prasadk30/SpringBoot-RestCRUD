@@ -26,9 +26,6 @@ public class FileUploadController {
 		
 		try {
 			
-			
-		
-		
 		// validation
 		if(file.isEmpty())
 		{
